@@ -1,3 +1,7 @@
 en el día de hoy los temas tratados son: blablabla
 que es un sistema de control de versiones
+“Como ignorar archivos para no ser comprometidos en el
+área de trabajo.
+Cambiar de ramas y volver a la principal”
+
 
